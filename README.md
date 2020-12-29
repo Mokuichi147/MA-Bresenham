@@ -1,4 +1,4 @@
-# MA-BRESENHAM
+# MA-Bresenham
 ブレゼンハムのアルゴリズムを用いて円形を描画する
 
 ![r=5](https://user-images.githubusercontent.com/38586357/103259006-e6deee80-49da-11eb-9c18-acd94b3cc5e4.png)
